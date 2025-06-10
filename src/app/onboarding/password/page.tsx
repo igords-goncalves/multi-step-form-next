@@ -1,4 +1,4 @@
-import Layout from "@/app/components/Layout";
+import Layout from "@/components/Layout";
 import { OnboardingPasswordForm } from "@/features/onboarding/components/onboarding-password-form";
 
 type OnboardingPasswordProps = {

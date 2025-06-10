@@ -1,4 +1,4 @@
-import Layout from "@/app/components/Layout";
+import Layout from "@/components/Layout";
 import { OnboardingUsernameForm } from "@/features/onboarding/components/onboarding-username-form";
 import { PropsWithChildren } from "react";
 

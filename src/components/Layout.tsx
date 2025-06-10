@@ -4,7 +4,7 @@ type LayoutProps = PropsWithChildren;
 
 const Layout = ({ children }: LayoutProps) => {
   return (
-    <div className="flex items-center justify-center h-screen">{children}</div>
+    <div data-testid="cypress-container" className="flex items-center justify-center h-screen">{children}</div>
   );
 };
 
